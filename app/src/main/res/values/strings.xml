@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Authen</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_id_client_id">"23192392388-f1ohur253i3e1hla934qdeldratou0rh.apps.googleusercontent.com"</string>
+</resources>
